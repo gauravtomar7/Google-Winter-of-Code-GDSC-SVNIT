@@ -1,0 +1,11 @@
+.back{
+    margin: 20px 20px 20px 150px;
+    cursor: pointer;
+    border: 5px solid black;
+  width: 30%;
+  height: auto;
+  
+}
+.background{
+    background:url(g1\ \(7\).jpeg);
+}

@@ -1,0 +1,37 @@
+
+.back{
+   background: url(back.jpeg) no-repeat;
+   background-size: cover;
+  
+   height: 150vh;
+  
+}
+.abt{
+   position: relative;
+   
+   left: 400px;
+   top: 50px;
+}
+.back1{
+   background: url(ce.jpg) no-repeat;
+   background-size: cover;
+   margin-top: 130px;
+   height: 150vh;
+  
+}
+.abt1{
+   position: relative;
+  margin-left: 370px;
+   top: -180px;
+}
+.light{
+   
+   font-family: fantasy;
+   position: relative;
+   top: -120px;
+   text-align: center;
+   margin-bottom: 200px;
+   
+   font-size: 60px;
+   text-shadow: 0 0 3px #FF0000;
+}
